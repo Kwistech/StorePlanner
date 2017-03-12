@@ -1,0 +1,28 @@
+{
+  "Grocery": {
+
+    "Soup": {
+      "amount": 12,
+      "height": 2,
+      "width": 1,
+      "depth": 1,
+
+      "aisle": 1,
+      "section": 1,
+      "shelf": 1
+    }
+  },
+
+  "Dairy": {
+    "Milk": {
+      "amount": 4,
+      "height": 6,
+      "width": 5,
+      "depth": 5,
+
+      "aisle": 1,
+      "section": 1,
+      "shelf": 2
+    }
+  }
+}

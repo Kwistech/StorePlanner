@@ -1,0 +1,6 @@
+{
+    "tree": "Display all objects in a tree diagram",
+    "full": "Display all full shelves",
+    "empty": "Display all empty shelves",
+    "quit": "Quit program"
+}

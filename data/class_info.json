@@ -1,0 +1,22 @@
+{
+  "Store": {
+    "name": "The Store",
+    "aisles": 2
+  },
+
+  "Aisles": {
+    "names": ["S1", "S2", "S3"],
+    "sections": 3
+  },
+
+  "Sections": {
+    "names": ["Sh1", "Sh2", "Sh3", "Sh4"],
+    "shelves": 4
+  },
+
+  "Shelves": {
+    "height": 10,
+    "width": 11,
+    "depth": 12
+  }
+}
